@@ -1,3 +1,6 @@
 [submodule "infra"]
 	path = infra
 	url = https://github.com/forhand/infra.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/forhand/user-service.git
