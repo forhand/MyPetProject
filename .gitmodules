@@ -4,3 +4,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/forhand/user-service.git
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/forhand/post-service.git
