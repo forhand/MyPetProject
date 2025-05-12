@@ -7,3 +7,6 @@
 [submodule "post-service"]
 	path = post-service
 	url = https://github.com/forhand/post-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/forhand/notification-service.git
