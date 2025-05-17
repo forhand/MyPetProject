@@ -10,3 +10,6 @@
 [submodule "notification-service"]
 	path = notification-service
 	url = https://github.com/forhand/notification-service.git
+[submodule "analytic-service"]
+	path = analytic-service
+	url = https://github.com/forhand/analytic-service.git
