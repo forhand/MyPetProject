@@ -40,7 +40,7 @@
 
 Сервис слушает события и сохраняет `AnalyticEvent` в базу данных
 
-- [Получение аналитики за указанный период](https://github.com/forhand/analytic-service/blob/main/src/main/java/org/example/analytic_service/service/AnalyticService.java)
+- [Получение аналитики за указанный период](https://github.com/forhand/analytic-service/blob/main/src/main/java/org/example/analytic_service/filter/impl/AnalyticsDateRangeFilter.java)
 - [Получение аналитики за указанный интервал](https://github.com/forhand/analytic-service/blob/main/src/main/java/org/example/analytic_service/filter/impl/AnalyticsIntervalFilter.java)
 
 ### achievement-service
